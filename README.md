@@ -82,3 +82,4 @@ Monitor your application's health using SmallRye Health
 # quick-openshift-kogito
 # quick-openshift-kogito
 # quick-openshift-kogito
+# quick-openshift-kogito
